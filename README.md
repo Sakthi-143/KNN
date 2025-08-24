@@ -3,7 +3,7 @@
 # Glass Classification using KNN
 
 ## Introduction
-This repository contains code for preparing a model to classify different types of glass using the K-Nearest Neighbors (KNN) algorithm. The dataset includes various features such as refractive index, sodium content, magnesium content, etc., which are used to predict the type of glass.
+This repository contains code for preparing a model to classify different types of glass using the K-Nearest Neighbors (KNN) algorithm. The dataset includes various features such as refractive index, sodium content, magnesium content,etc., which are used to predict the type of glass.
 
 ## Data Description
 The dataset consists of the following features:
